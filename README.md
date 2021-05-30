@@ -1,7 +1,7 @@
 # MechaCar Statistical Analysis
 ## Linear Regression to Predict MPG
 The first deliverable for this project examined the ability of various factors to predict MPG using a multiple linear regression model. The output is shown here:   
-![multiple regression](Images/Deliverable1.png)  
+![multiple regression](images/Deliverable1.png)  
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?  
 The variables   
 3. Is the slope of the linear model considered to be zero? Why or why not?  
